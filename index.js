@@ -1,3 +1,3 @@
 let age = 10;
 console.log(age)
-place = "none"
+place = "Madurai"
