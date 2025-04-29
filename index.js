@@ -1,2 +1,2 @@
-let age = 30;
+let age = 50;
 console.log(age)
